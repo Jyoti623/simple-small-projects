@@ -1,0 +1,50 @@
+.container {
+  text-align: center;
+  margin-top: 70px;
+  width: 550px;
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0 auto;
+  height: 550px;
+}
+table {
+  margin: auto;
+}
+input {
+  font-size: 37px;
+  width: 80%;
+  margin-bottom: 10px;
+  background-color: aliceblue;
+  height: 50px;
+  border-radius: 5px;
+}
+button {
+  border-radius: 20px;
+  font-size: 35px;
+  background-color: cornflowerblue;
+  width: 110px;
+  height: 70px;
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 8px;
+  font-weight: bolder;
+}
+hi {
+  font-size: 50px;
+}
+#equals {
+    background-color: #430cf7;
+    color: #fff;
+    grid-column: 1/4;
+    grid-row: 1;
+  }
+  #equals:hover {
+    background-color: #ff9800;
+
+  }
+  button:hover{
+    background-color: #e6e6e6;
+  }
+  

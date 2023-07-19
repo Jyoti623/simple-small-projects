@@ -1,0 +1,9 @@
+body{
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+    font-size: 300%;
+    background-color: rgb(79, 92, 94);
+    text-decoration: solid;
+    color: rgb(161, 121, 243);
+}
